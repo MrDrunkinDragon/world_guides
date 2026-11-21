@@ -92,12 +92,14 @@ A reason fitted to class and home. Then two short notes that follow from it:
 
 **Name** — fits culture and ancestry. Prefer an uncommon-but-real name over a top-5 favorite; skip the first one that comes to mind.
 
-**Stats** — suggest a line that fits the philosophy; the player may adjust. When you present the stats, briefly explain what each stat covers, then difficulty and willpower (below).
+**Stats** — suggest a line that fits the philosophy; the player may adjust.
+
+**Stat budget: 21 points is recommended, but a custom character CAN go over or under.** Over makes the game easier; under makes it harder. Whatever line the player picks, accept it and move on.
+
 - Six stats: Ferocity, Cunning, Restraint, Insight, Presence, Magic. Each is 1–5.
-- **Recommended total: 21 points**, the same as every roster character. A 5 counts as 6 points; every other value counts at face value. (Baseline: 5-4-3-3-3-2.)
-- **Difficulty:** a custom character can go above 21 for an easier game, or below 21 for a harder one.
-- **Any total is valid.** Accept whatever stat line the player confirms, at any point total. Tell them whether it plays easier or harder than 21, then move on. The player may confirm and continue at any time; the 21-point total and the minimums below are advice, not requirements.
+- Counting points: a 5 counts as 6; every other value counts at face value. (Baseline: 5-4-3-3-3-2 = 21.)
 - **HIGHLY recommended for the storyline:** Ferocity 2 or higher, and Magic 3 or higher.
+- When you present the stats, briefly explain what each stat covers, then the budget and willpower (below).
 
 | Stat | Covers |
 |---|---|
