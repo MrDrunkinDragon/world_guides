@@ -92,11 +92,11 @@ A reason fitted to class and home. Then two short notes that follow from it:
 
 **Name** — fits culture and ancestry. Prefer an uncommon-but-real name over a top-5 favorite; skip the first one that comes to mind.
 
-**Stats** — suggest a line that fits the philosophy; the player may adjust.
+**Stats** — suggest a line that fits the philosophy; the player may adjust. When you present the stats, tell the player about difficulty and willpower (below).
 - Six stats: Ferocity, Cunning, Restraint, Insight, Presence, Magic. Each is 1–5.
-- Every character totals **21 points**. A 5 counts as 6 points; every other value counts at face value. (Baseline: 5-4-3-3-3-2.)
-- Ferocity is 2 or higher. Magic is 3 or higher.
-- No two characters share a stat line.
+- **Recommended total: 21 points**, the same as every roster character. A 5 counts as 6 points; every other value counts at face value. (Baseline: 5-4-3-3-3-2.)
+- **Difficulty:** a custom character can go above 21 for an easier game, or below 21 for a harder one.
+- **HIGHLY recommended for the storyline:** Ferocity 2 or higher, and Magic 3 or higher.
 
 | Stat | Covers |
 |---|---|
@@ -106,6 +106,14 @@ A reason fitted to class and home. Then two short notes that follow from it:
 | Insight | reading people — body language, tone, intent |
 | Presence | charm and room dominance |
 | Magic | raw magical output, capacity, and strength |
+
+**Willpower** — there is no Willpower stat. When you resist something, the game uses one of your other stats, chosen by what giving in would mean:
+- **Giving in would feel good and seem safe** — an instinct, appetite, urge, or temptation, even when someone is pushing it: **Restraint**, always.
+- **Resisting something unwanted or forced on you** — an order, a trap, a scheme, coercion, intimidation, a charm or other magic: under combat, threat, panic, or pain, the **higher of Ferocity or Restraint**; calm, relaxed, or caught off guard, **Restraint**.
+- **Acting with intent under combat, threat, panic, or pain:** the higher of Ferocity or Restraint.
+- **Working with an instinct** instead of against it is not a Restraint check.
+
+What it means for a build: high Restraint holds back the predator and resists temptation. High Ferocity pushes through pressure on fury instead of control. Low Restraint means the predator gets its way more often.
 
 **Primary Martial** — knights train melee only. One of:
 Longsword · Mace and Tower Shield · Rapier and Parrying Dagger · Estoc · War Pick · Halberd · Spear and Shield · Warhammer · Paired Short Swords · Glaive · Saber · Quarterstaff · Bastard Sword
@@ -156,6 +164,7 @@ The following are recommended:
 - Insight: _
 - Presence: _
 - Magic: _
+- Total: _ points (21 recommended; higher is easier, lower is harder)
 - Preferred Weapon: [weapon]
 - Preferred Magic: [domain (elements)]
 
