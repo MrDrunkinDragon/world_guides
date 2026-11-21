@@ -92,7 +92,7 @@ A reason fitted to class and home. Then two short notes that follow from it:
 
 **Name** — fits culture and ancestry. Prefer an uncommon-but-real name over a top-5 favorite; skip the first one that comes to mind.
 
-**Stats** — suggest a line that fits the philosophy; the player may adjust. When you present the stats, tell the player about difficulty and willpower (below).
+**Stats** — suggest a line that fits the philosophy; the player may adjust. When you present the stats, briefly explain what each stat covers, then difficulty and willpower (below).
 - Six stats: Ferocity, Cunning, Restraint, Insight, Presence, Magic. Each is 1–5.
 - **Recommended total: 21 points**, the same as every roster character. A 5 counts as 6 points; every other value counts at face value. (Baseline: 5-4-3-3-3-2.)
 - **Difficulty:** a custom character can go above 21 for an easier game, or below 21 for a harder one.
