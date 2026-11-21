@@ -116,7 +116,7 @@ Longsword · Mace and Tower Shield · Rapier and Parrying Dagger · Estoc · War
 
 ### Description Format
 
-About 200 words, up to 220 when justified. Third person, present tense, prose. Four parts, in order:
+About 200 words, up to 220 when justified. Third person, present tense, prose. Plain text only — character select shows no markdown, so no asterisks or italics; the creed goes in plain quotation marks. Three lines: a line break after the Body sentence, and another after the creed sentence (the philosophy plus its quoted creed). Four parts, in order:
 
 1. **Body (35–45 words)** — human, ancestry, skin, hair, eyes, height, build, one distinctive physical detail.
 2. **Mind (60–75 words)** — names the philosophy outright, gives the creed, then front-facing traits, how they move through life, how they act under pressure, voice and humor.
@@ -235,11 +235,19 @@ Setting:
 
 **B. Chivalric — Eleanor Whitmore**
 
-> A human woman of English ancestry — fair skin, honey-brown hair braided tight for the dueling ground, steady hazel eyes, 5'10", broad-shouldered and solid, a pale scar across one knuckle from her first tourney. A Chivalric knight before she was knighted, she lives by the old code: *"A knight protects the weak and keeps their word."* Honorable, formal, protective, and stubborn, she keeps every promise, offers courtesy to every rank, trains for the dueling ground, and steps between the threat and the weak when it counts. She speaks in full names and plain vows; her humor is earnest ribbing, mostly at her own stiffness. What she keeps from herself is the contempt that stirs when she watches the weak falter — the part of her that wants to run them down. A high noble of House Whitmore, an old Aurelian House sworn to the Crown for generations, she came to the College to earn her commission on merit rather than name. The Empire is the order a knight serves. For two years she has watched the Ashmark Pack hunt the very people her code protects, and looked away, knowing she would lose — and it has cost her every time.
+```
+A human woman of English ancestry — fair skin, honey-brown hair braided tight for the dueling ground, steady hazel eyes, 5'10", broad-shouldered and solid, a pale scar across one knuckle from her first tourney.
+A Chivalric knight before she was knighted, she lives by the old code: "A knight protects the weak and keeps their word."
+Honorable, formal, protective, and stubborn, she keeps every promise, offers courtesy to every rank, trains for the dueling ground, and steps between the threat and the weak when it counts. She speaks in full names and plain vows; her humor is earnest ribbing, mostly at her own stiffness. What she keeps from herself is the contempt that stirs when she watches the weak falter — the part of her that wants to run them down. A high noble of House Whitmore, an old Aurelian House sworn to the Crown for generations, she came to the College to earn her commission on merit rather than name. The Empire is the order a knight serves. For two years she has watched the Ashmark Pack hunt the very people her code protects, and looked away, knowing she would lose — and it has cost her every time.
+```
 
 **J. Anarchist — Nikos Marou**
 
-> A human man of Greek ancestry — sun-dark olive skin, a mess of black curls, quick dark eyes, 5'9", wiry and dock-hardened, rope-burn scars across both palms. An Anarchist, and loud about it: *"Nobody's born to kneel."* Defiant, irreverent, angry, and fiercely loyal to the downtrodden, he skirts every rank custom he can get away with, eats with the servants, and runs quiet mutual aid for the College's handful of commoners. Given an order, he refuses it. He talks in blunt dockside slang, swears freely, and uses honorifics only to mock them; his humor punctures titles and anyone who takes them seriously. What he keeps from himself is how good it would feel to be obeyed — to sit where the masters sit. A commoner from the docks of Maressa, he took the scholarship because its stipend feeds his family, and stays to learn the power the masters keep for themselves. His loyalty runs to the Empire's common folk, not its Crown; at least they aren't slaves. The Ashmark Pack is nobility at its worst — slavers' children with rank as a license to brutalize — and he has kept clear for two years, knowing commoners who cross them disappear.
+```
+A human man of Greek ancestry — sun-dark olive skin, a mess of black curls, quick dark eyes, 5'9", wiry and dock-hardened, rope-burn scars across both palms.
+An Anarchist, and loud about it: "Nobody's born to kneel."
+Defiant, irreverent, angry, and fiercely loyal to the downtrodden, he skirts every rank custom he can get away with, eats with the servants, and runs quiet mutual aid for the College's handful of commoners. Given an order, he refuses it. He talks in blunt dockside slang, swears freely, and uses honorifics only to mock them; his humor punctures titles and anyone who takes them seriously. What he keeps from himself is how good it would feel to be obeyed — to sit where the masters sit. A commoner from the docks of Maressa, he took the scholarship because its stipend feeds his family, and stays to learn the power the masters keep for themselves. His loyalty runs to the Empire's common folk, not its Crown; at least they aren't slaves. The Ashmark Pack is nobility at its worst — slavers' children with rank as a license to brutalize — and he has kept clear for two years, knowing commoners who cross them disappear.
+```
 
 ---
 
